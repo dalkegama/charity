@@ -20,6 +20,8 @@ module.exports = function(app){
 		layoutsDir: __dirname + '/views/layouts'
 	}));
 
+	app.enable('trust proxy');
+	
 	// Set .html as the default template extension 
 	app.set('view engine', 'html');
 
