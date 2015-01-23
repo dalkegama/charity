@@ -145,13 +145,13 @@ body > img{
 /* The Cute! button */
 
 .button-holder form:first-child input{
-	background: url('../img/sprite.svg') #aadb9c 17px -86px no-repeat;
+	background: url('../img/sprite.png') #aadb9c 17px -86px no-repeat;
 }
 
 /* The Not Cute! button */
 
 .button-holder form:last-child input{
-	background: url('../img/sprite.svg') #f3818d 17px 18px no-repeat;
+	background: url('../img/sprite.png') #f3818d 17px 18px no-repeat;
 }
 
 
@@ -199,7 +199,7 @@ ul li p{
 	position: absolute;
 	left: 240px;
 	top: 40px;
-	background: url('../img/sprite.svg') no-repeat;
+	background: url('../img/sprite.png') no-repeat;
 	line-height: 40px;
 	font-weight: bold;
 	font-size: 24px;
